@@ -13,7 +13,4 @@ It allows users to add tasks, mark them as completed, and delete them easily.
 - CSS
 - JavaScript
 
-## 📂 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+
